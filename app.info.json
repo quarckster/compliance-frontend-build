@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "d13574559c05aeda8617382cd3b9e1a745584425",
+  "src_hash": "d1f135e0bd8ab0fd782f11992490aeec859f2907",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -312,6 +312,11 @@
       "from": "react-show-more-text@1.0.4",
       "resolved": "https://registry.npmjs.org/react-show-more-text/-/react-show-more-text-1.0.4.tgz"
     },
+    "react-truncate": {
+      "version": "2.4.0",
+      "from": "react-truncate@2.4.0",
+      "resolved": "https://registry.npmjs.org/react-truncate/-/react-truncate-2.4.0.tgz"
+    },
     "redux": {
       "version": "3.7.2",
       "from": "redux@3.7.2",
@@ -401,7 +406,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "157",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/488605845"
+    "build_number": "159",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/488634131"
   }
 }
