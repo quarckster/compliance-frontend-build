@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "5a10d4fa46dbb99a8d6fb053e44c45e1c377856e",
+  "src_hash": "d5bc43fba112d5e70bebe1c662d9d9e84b80a948",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -48,9 +48,9 @@
       "resolved": "https://registry.npmjs.org/@babel/preset-react/-/preset-react-7.0.0.tgz"
     },
     "@patternfly/patternfly-next": {
-      "version": "1.0.168",
-      "from": "@patternfly/patternfly-next@1.0.168",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.168.tgz"
+      "version": "1.0.175",
+      "from": "@patternfly/patternfly-next@1.0.175",
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.175.tgz"
     },
     "@patternfly/react-charts": {
       "version": "1.4.1",
@@ -68,9 +68,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-2.9.3.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.33.4",
-      "from": "@red-hat-insights/insights-frontend-components@3.33.4",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.4.tgz"
+      "version": "3.33.59",
+      "from": "@red-hat-insights/insights-frontend-components@3.33.59",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.59.tgz"
     },
     "actioncable": {
       "version": "5.2.1",
@@ -406,7 +406,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "184",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/490529372"
+    "build_number": "187",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/490636741"
   }
 }
