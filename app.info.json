@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "aa5c8b7000984acd44320b1130949b1275fec1a6",
+  "src_hash": "985073ade0575e2a9710aa57fd633bd26e2c5715",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -66,6 +66,11 @@
       "version": "2.9.3",
       "from": "@patternfly/react-icons@2.9.3",
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-2.9.3.tgz"
+    },
+    "@patternfly/react-table": {
+      "version": "1.0.7",
+      "from": "@patternfly/react-table@1.0.7",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-1.0.7.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
       "version": "3.33.61",
@@ -406,7 +411,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "192",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/492286830"
+    "build_number": "194",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/492744800"
   }
 }
