@@ -1,8 +1,8 @@
 {
   "app_name": "compliance",
-  "src_hash": "746cfd356e046c025fc44bb5d28190bda4535d4e",
+  "src_hash": "d5b51ef45208147be43fe493bb6ff920e728ff66",
   "src_tag": "",
-  "src_branch": "master",
+  "src_branch": "qa-beta",
   "npm_info": {
   "name": "compliance-frontend",
   "version": "1.1.0",
@@ -6159,7 +6159,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "258",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/508399333"
+    "build_number": "293",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/512934762"
   }
 }
