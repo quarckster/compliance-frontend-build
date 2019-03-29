@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "a70c919df7d7a7d9f86d4e3adeb0cda395d3cc5f",
+  "src_hash": "87253e5ae07fefb28199dcac3ce83ad7e776a641",
   "src_tag": "",
   "src_branch": "ci-stable",
   "npm_info": {
@@ -5821,9 +5821,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-1.0.7.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.36.0",
-      "from": "@red-hat-insights/insights-frontend-components@3.36.0",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.36.0.tgz"
+      "version": "3.41.2",
+      "from": "@red-hat-insights/insights-frontend-components@3.41.2",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.41.2.tgz"
     },
     "actioncable": {
       "version": "5.2.1",
@@ -6159,7 +6159,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "282",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/511497239"
+    "build_number": "299",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/513076125"
   }
 }
