@@ -1,8 +1,8 @@
 {
   "app_name": "compliance",
-  "src_hash": "5b39bf031a79a8bad40af8e90f58a4176122108d",
+  "src_hash": "27c9266aae42af81208a76207acee5a99842cd0c",
   "src_tag": "",
-  "src_branch": "stable",
+  "src_branch": "prod-stable",
   "npm_info": {
   "name": "compliance-frontend",
   "version": "1.1.0",
@@ -5821,9 +5821,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-1.0.7.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.36.0",
-      "from": "@red-hat-insights/insights-frontend-components@3.36.0",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.36.0.tgz"
+      "version": "3.41.2",
+      "from": "@red-hat-insights/insights-frontend-components@3.41.2",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.41.2.tgz"
     },
     "actioncable": {
       "version": "5.2.1",
@@ -6000,6 +6000,11 @@
       "from": "koa-connect@2.0.1",
       "resolved": "https://registry.npmjs.org/koa-connect/-/koa-connect-2.0.1.tgz"
     },
+    "linkifyjs": {
+      "version": "2.1.8",
+      "from": "linkifyjs@2.1.8",
+      "resolved": "https://registry.npmjs.org/linkifyjs/-/linkifyjs-2.1.8.tgz"
+    },
     "lodash-webpack-plugin": {
       "version": "0.11.5",
       "from": "lodash-webpack-plugin@0.11.5",
@@ -6159,7 +6164,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "247",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/505246125"
+    "build_number": "328",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/514175787"
   }
 }
