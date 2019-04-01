@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "a4b16a5df2c673167229ecc5003af5d3a89e3ed2",
+  "src_hash": "0fb82b96f6030dbaf00749d2ac82a22085a72001",
   "src_tag": "",
   "src_branch": "ci-stable",
   "npm_info": {
@@ -6055,6 +6055,11 @@
       "from": "react-dom@16.5.0",
       "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-16.5.0.tgz"
     },
+    "react-intl": {
+      "version": "2.8.0",
+      "from": "react-intl@2.8.0",
+      "resolved": "https://registry.npmjs.org/react-intl/-/react-intl-2.8.0.tgz"
+    },
     "react-redux": {
       "version": "5.0.7",
       "from": "react-redux@5.0.7",
@@ -6164,7 +6169,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "332",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/514244191"
+    "build_number": "339",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/514281298"
   }
 }
