@@ -1,6 +1,6 @@
 {
   "app_name": "compliance",
-  "src_hash": "27c9266aae42af81208a76207acee5a99842cd0c",
+  "src_hash": "a4b16a5df2c673167229ecc5003af5d3a89e3ed2",
   "src_tag": "",
   "src_branch": "ci-stable",
   "npm_info": {
@@ -5801,29 +5801,29 @@
       "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.175.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "1.4.1",
-      "from": "@patternfly/react-charts@1.4.1",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-1.4.1.tgz"
+      "version": "2.3.0",
+      "from": "@patternfly/react-charts@2.3.0",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-2.3.0.tgz"
     },
     "@patternfly/react-core": {
-      "version": "1.51.6",
-      "from": "@patternfly/react-core@1.51.6",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.51.6.tgz"
+      "version": "2.10.6",
+      "from": "@patternfly/react-core@2.10.6",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-2.10.6.tgz"
     },
     "@patternfly/react-icons": {
-      "version": "2.9.3",
-      "from": "@patternfly/react-icons@2.9.3",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-2.9.3.tgz"
+      "version": "3.7.1",
+      "from": "@patternfly/react-icons@3.7.1",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.7.1.tgz"
     },
     "@patternfly/react-table": {
-      "version": "1.0.7",
-      "from": "@patternfly/react-table@1.0.7",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-1.0.7.tgz"
+      "version": "1.4.6",
+      "from": "@patternfly/react-table@1.4.6",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-1.4.6.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.41.2",
-      "from": "@red-hat-insights/insights-frontend-components@3.41.2",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.41.2.tgz"
+      "version": "3.41.3",
+      "from": "@red-hat-insights/insights-frontend-components@3.41.3",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.41.3.tgz"
     },
     "actioncable": {
       "version": "5.2.1",
@@ -6164,7 +6164,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "325",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/514167847"
+    "build_number": "332",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/514244191"
   }
 }
