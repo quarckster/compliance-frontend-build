@@ -1,11 +1,11 @@
 {
   "app_name": "compliance",
-  "src_hash": "3aa146e193fb8543552e719421778a92a79d809c",
+  "src_hash": "1619c6c0059e7432f941ea42d00a7706dbe9102e",
   "src_tag": "",
   "src_branch": "ci-stable",
   "travis": {
     "event_type": "push",
-    "build_number": "538",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/532214525"
+    "build_number": "550",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/535164336"
   }
 }
