@@ -5,7 +5,7 @@
   "src_branch": "nightly",
   "travis": {
     "event_type": "cron",
-    "build_number": "901",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/577984666"
+    "build_number": "902",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/compliance-frontend/builds/578473770"
   }
 }
