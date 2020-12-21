@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-4.7.22.tgz"
     },
     "@patternfly/react-table": {
-      "version": "4.19.24",
-      "from": "@patternfly/react-table@4.19.24",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.19.24.tgz"
+      "version": "4.19.45",
+      "from": "@patternfly/react-table@4.19.45",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.19.45.tgz"
     },
     "@patternfly/react-tokens": {
       "version": "4.9.22",
