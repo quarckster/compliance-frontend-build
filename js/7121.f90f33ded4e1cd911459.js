@@ -1,0 +1,2 @@
+(self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[7121],{67121:(e,o,n)=>{"use strict";n.d(o,{Z:()=>b}),e=n.hmd(e);const b=(s="undefined"!=typeof self?self:"undefined"!=typeof window?window:void 0!==n.g?n.g:e,"function"==typeof(l=s.Symbol)?l.observable?f=l.observable:(f=l("observable"),l.observable=f):f="@@observable",f);var s,f,l}}]);
+//# sourceMappingURL=7121.f90f33ded4e1cd911459.js.map
