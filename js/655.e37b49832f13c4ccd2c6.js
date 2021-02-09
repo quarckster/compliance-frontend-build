@@ -1,0 +1,2 @@
+(self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[655],{28655:e=>{e.exports=function(e,n){return n||(n=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(n)}}))}}}]);
+//# sourceMappingURL=655.e37b49832f13c4ccd2c6.js.map
