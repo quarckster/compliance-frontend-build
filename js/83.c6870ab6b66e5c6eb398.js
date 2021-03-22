@@ -1,2 +1,0 @@
-(self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[83],{40083:(e,t,o)=>{"use strict";o.d(t,{Z:()=>n});var c=o(52489);function n(e,t){e.prototype=Object.create(t.prototype),e.prototype.constructor=e,(0,c.Z)(e,t)}}}]);
-//# sourceMappingURL=83.c6870ab6b66e5c6eb398.js.map
