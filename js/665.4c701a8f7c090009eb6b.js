@@ -1,2 +1,2 @@
 (self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[665],{14665:(e,n,t)=>{"use strict";function c(e,n){return(c=Object.setPrototypeOf||function(e,n){return e.__proto__=n,e})(e,n)}t.d(n,{Z:()=>c})}}]);
-//# sourceMappingURL=../sourcemaps/665.d7c5c52661866458169c.js.map
+//# sourceMappingURL=../sourcemaps/665.6e137c643bfa8b274424.js.map
