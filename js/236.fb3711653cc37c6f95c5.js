@@ -1,2 +1,2 @@
 (self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[236],{30236:(n,e,c)=>{var o=c(42980),p=c(21463)((function(n,e,c,p){o(n,e,c,p)}));n.exports=p}}]);
-//# sourceMappingURL=../sourcemaps/236.96ab89a4a0a5c490157a.js.map
+//# sourceMappingURL=../sourcemaps/236.30c86cd1dcca71b68072.js.map
