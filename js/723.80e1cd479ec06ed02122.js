@@ -1,1 +1,0 @@
-(self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[723],{81754:()=>{},80598:()=>{},10108:()=>{},74181:()=>{},11177:()=>{}}]);
